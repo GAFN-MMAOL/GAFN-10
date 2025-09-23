@@ -6,5 +6,5 @@
 
 hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@172.252.236.213:57588/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
-hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:41749/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
+hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:57796/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
